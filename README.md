@@ -10,5 +10,10 @@ Tus tareas consisten en:
 
 Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: cst00015@red.ujaen.es
-* **GitHub**: https://github.com/cst00015/
+* **GitHub**: https://github.com/cst00015/    usuario: cst00015
 * **Trello**: https://trello.com/u/cst00015/
+  
+Captura trello inicial:
+<img src='/Captura de pantalla(1).png' width='200px'>
+Captura trello inicial:
+<img src='/2023-02-10.png' width='200px'>
