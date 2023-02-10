@@ -16,4 +16,4 @@ Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 Captura trello inicial:
 <img src='/Trello1.png' width='200px'>
 Captura trello inicial:
-<img src='/2023-02-10.png' width='200px'>
+<img src='/Trello2.png' width='200px'>
