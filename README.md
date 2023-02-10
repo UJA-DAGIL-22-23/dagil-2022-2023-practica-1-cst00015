@@ -14,6 +14,6 @@ Estudiante del grado de Ingeniería Informática de la Universidad de Jaén.
 * **Trello**: https://trello.com/u/cst00015/
   
 Captura trello inicial:
-<img src='/Captura de pantalla(1).png' width='200px'>
+<img src='/Trello1.png' width='200px'>
 Captura trello inicial:
 <img src='/2023-02-10.png' width='200px'>
